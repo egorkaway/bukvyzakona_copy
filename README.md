@@ -4,11 +4,11 @@ Copy of content from https://bukvyzakona.by/
 
 
 * [Постеры на беларускай](/poster_bel.zip).   
-* [Постеры на русском](/poster_bel.zip).   
-* [FB covers на беларускай](/poster_bel.zip).   
-* [FB covers на русском](/poster_bel.zip).   
-* [IG stories на беларускай](/poster_bel.zip).   
-* [IG stories на русском](/poster_bel.zip).  
+* [Постеры на русском](/poster_rus.zip).   
+* [FB covers на беларускай](/fb_bel.zip).   
+* [FB covers на русском](/fb_rus.zip).   
+* [IG stories на беларускай](/inst_bel.zip).   
+* [IG stories на русском](/inst_rus.zip).  
 
 [poster_rus.zip]
 [fb_bel.zip]
