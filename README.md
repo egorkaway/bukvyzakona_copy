@@ -12,7 +12,7 @@ Copy of content from https://bukvyzakona.by/
 
 poster_bel:
 
-![Alt text](/poster_bel/poster_bel_black-01.jpg)
+![](/poster_bel/poster_bel_black-01.jpg)
 
  ![] (/poster_bel/poster_bel_black-01.jpg)	
 
