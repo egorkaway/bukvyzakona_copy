@@ -10,13 +10,6 @@ Copy of content from https://bukvyzakona.by/
 * [IG stories на беларускай](/inst_bel.zip).   
 * [IG stories на русском](/inst_rus.zip).  
 
-[poster_rus.zip]
-[fb_bel.zip]
-[fb_rus.zip]
-[inst_bel.zip]
-[inst_rus.zip]
-
-
 poster_bel:
 poster_bel_black-01.jpg	poster_bel_black-05.jpg	poster_bel_black-09.jpg	poster_bel_white-03.jpg	poster_bel_white-07.jpg
 poster_bel_black-02.jpg	poster_bel_black-06.jpg	poster_bel_black.ai	poster_bel_white-04.jpg	poster_bel_white-08.jpg
