@@ -3,7 +3,7 @@ Copy of content from https://bukvyzakona.by/
 
 * [Постеры на беларускай] (/poster_bel.zip)
 
-See my [Постеры на беларускай](/about/) page for details.   
+* [Постеры на беларускай](/poster_bel.zip).   
 
 [poster_rus.zip]
 [fb_bel.zip]
