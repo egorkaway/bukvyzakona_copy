@@ -1,7 +1,7 @@
 # Copy 
 Copy of content from https://bukvyzakona.by/
 
-[Постеры на беларускай] (/poster_bel.zip)
+* [Постеры на беларускай] (/poster_bel.zip)
 
 See my [About](/about/) page for details.   
 
